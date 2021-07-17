@@ -1,0 +1,7 @@
+{
+  "name": "chutki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
